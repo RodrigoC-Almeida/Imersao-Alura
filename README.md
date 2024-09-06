@@ -1,4 +1,4 @@
-## **Seu Guia de Abelhas Nativas Sem Ferrão**
+## **Seu Guia de Abelhas Nativas Sem Ferrão** Feito na Imersão DEV com Gemini
 
 ### **Um Zumbido de Código para Amantes da Natureza**
 
