@@ -72,7 +72,7 @@ let especies = [
     {
       titulo: "Boca-de-sapo",
       imagem: "./img/bocasapo.jpg",
-      descricao: "A Abelha Boca-de-sapo: Uma Guardiã da Natureza. A abelha boca-de-sapo (Oxytrigona tataira) é uma abelha sem ferrão nativa do Brasil, conhecida por seu comportamento agressivo na defesa de sua colmeia. Produz um mel de sabor forte e é uma polinizadora importante para diversas plantas, especialmente árvores de grande porte.",
+      descricao: "A Abelha Boca-de-sapo: Uma Guardiã da Natureza. A abelha boca-de-sapo (Oxytrigona tataira) é uma abelha sem ferrão nativa do Brasil, conhecida por seu comportamento agressivo na defesa de sua colmeia. Produz um mel de sabor forte e é uma polinizadora importante para diversas plantas, especialmente árvores de grande porte. Seu nome se deve a estrutura de entrada de seu ninho.",
       link: "https://www.youtube.com/watch?v=2qT3m9I6lS8",
       tags: "abelha boca-de-sapo abelha Oxytrigona tataira polinizadora sem ferrão mel"
     },
