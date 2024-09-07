@@ -15,6 +15,7 @@ function buscar() {
     // Inicializa uma string vazia para armazenar os resultados da pesquisa
     let resultados = "";
     let titulo = "";
+    let imagem = "";
     let descricao = "";
     let tags = "";
 
@@ -28,11 +29,14 @@ function buscar() {
             <div class="item-resultado">
             <h2>
                 <a href="#" target="_blank">${dado.titulo}</a>
+                
             </h2>
             <p class="descricao-meta">${dado.descricao}
-                <a href=${dado.link}
+                   <a href=${dado.link}
                    target="_blank">saiba mais</a>
+                   <h3><img src=${dado.imagem} <h3>
             </p>
+            
         </div>
     `;
         }
