@@ -6,7 +6,7 @@ function buscar() {
     //console.log(campoPesquisa);
     
     if(!campoPesquisa){
-        section.innerHTML="<p>Pesquisa sem dados</P>"
+        section.innerHTML="<p><h2>Pesquisa sem informações</h2></P>"
         return
     }
 
@@ -37,7 +37,7 @@ function buscar() {
     `;
         }
         if (!resultados) {
-            resultados="<p>Nenhum resultado encontrado</p>"    
+            resultados="<p><h2>Nenhum resultado encontrado</h2></p>"    
         }
         
     }
